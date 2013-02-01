@@ -1,0 +1,9 @@
+[submodule "app/lib/jsfeat"]
+	path = app/lib/jsfeat
+	url = https://github.com/inspirit/jsfeat
+[submodule "app/lib/headtrackr"]
+	path = app/lib/headtrackr
+	url = https://github.com/auduno/headtrackr
+[submodule "app/lib/jsfeat-samples"]
+	path = app/lib/jsfeat-samples
+	url = https://github.com/inspirit/jsfeat
